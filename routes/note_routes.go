@@ -7,8 +7,8 @@ import (
 	"gopkg.in/mgo.v2/bson"
 
 	"github.com/gorilla/mux"
-	. "longwave_api/dao"
-	. "longwave_api/models"
+	. "notes_test/dao"
+	. "notes_test/models"
 )
 
 var notesDao = NotesDAO{}

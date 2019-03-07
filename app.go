@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 	"github.com/gorilla/mux"
-	. "longwave_api/config"
-	. "longwave_api/dao"
-	. "longwave_api/routes"
+	. "notes_test/config"
+	. "notes_test/dao"
+	. "notes_test/routes"
 )
 
 var config = Config{}

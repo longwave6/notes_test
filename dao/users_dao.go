@@ -2,7 +2,7 @@ package dao
 
 import (
 	"gopkg.in/mgo.v2/bson"
-	. "longwave_api/models"
+	. "notes_test/models"
 )
 
 type UsersDAO struct {

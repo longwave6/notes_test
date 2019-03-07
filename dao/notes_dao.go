@@ -1,7 +1,7 @@
 package dao
 
 import (
-	. "longwave_api/models"
+	. "notes_test/models"
 	"gopkg.in/mgo.v2/bson"
 )
 
